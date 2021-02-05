@@ -2,7 +2,7 @@
 
 ## Basics
 * Server 2012 R2
-* [Windows Management Framework 5 - February Preview](http://www.microsoft.com/en-us/download/details.aspx?id=45883) (The April preview and Production Preview from August break Test-Kitchen).
+* [Windows Management Framework 5 - February Preview](https://www.microsoft.com/download/details.aspx?id=45883&WT.mc_id=devops-0000-stmuraws) (The April preview and Production Preview from August break Test-Kitchen).
 * [A recent ChefDK (newer than 0.6.0 ](https://downloads.chef.io/chef-dk/windows/)
 * This repository
 
